@@ -12,3 +12,4 @@ This repository contains the work of TEAM 43 for the [Harvard Global Day of Serv
 For more information, feel free to [contact us](mailto:anoori@college.harvard.edu).
 
 ## Map Visualization
+![CVT Map Visualization](https://github.com/ayushnoori/erevna-cvt/blob/main/Results/1%20-%20Map%20Visualization/Map%20Visualization.png)
