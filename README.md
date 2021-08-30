@@ -10,3 +10,5 @@ This repository contains the work of TEAM 43 for the [Harvard Global Day of Serv
 **Team Members:** Ayush Noori, Sid Bharthulwar, Pranay Varada, Grace Li, Jasmine Zhang
 
 For more information, feel free to [contact us](mailto:anoori@college.harvard.edu).
+
+## Map Visualization
