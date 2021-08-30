@@ -102,5 +102,7 @@ p = ggplot(join_world, aes(long, lat, group = group)) +
 
 # save data
 ggsave(file.path(rdir, "Map Visualization.pdf"), p, width = 18, height = 10)
+ggsave(file.path(rdir, "Map Visualization.png"), p, width = 18, height = 10,
+       dpi = 600)
 
 ```
