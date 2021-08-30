@@ -1,0 +1,5 @@
+"0",""
+"0","# set directories"
+"0","ddir = file.path(""Data"")"
+"0","rdir = file.path(""Results"", ""1 - Map Visualization"")"
+"0",""
